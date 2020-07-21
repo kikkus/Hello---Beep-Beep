@@ -23,4 +23,4 @@ Ctrl-Shift-d  Delete the current function without using the menu https://youtu.b
 Ctrl-Shift-x  Remove all the references to the current address https://youtu.be/M2L5-yOvXjk
 
 
-
+Installation: copy the dll in your ida/plugins folder.
