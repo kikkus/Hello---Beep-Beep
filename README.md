@@ -12,13 +12,15 @@ Shift-4 Make Double
 
 Shift-8 Make Quad 
 
+Note: the begin and end address must be aligned with the desired type (2,4,8).
 
-Note: the begin and end address must be aligned with the desidered type (2,4,8).
+https://youtu.be/2Y4Jro5Szdc
+https://youtu.be/_qnRXozRec8
 
 
-Ctrl-Shift-d  Delete the current function without use the menu
+Ctrl-Shift-d  Delete the current function without using the menu https://youtu.be/2N9oJbS4H4Q
 
-Ctrl-Shift-x  Remove all the references to the current address
+Ctrl-Shift-x  Remove all the references to the current address https://youtu.be/NhxJOwCeGnU
 
-0             It creates a function staying with the cursor on a data pointer
+
 
