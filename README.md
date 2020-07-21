@@ -20,7 +20,7 @@ https://youtu.be/_qnRXozRec8
 
 Ctrl-Shift-d  Delete the current function without using the menu https://youtu.be/2N9oJbS4H4Q
 
-Ctrl-Shift-x  Remove all the references to the current address https://youtu.be/NhxJOwCeGnU
+Ctrl-Shift-x  Remove all the references to the current address https://youtu.be/M2L5-yOvXjk
 
 
 
