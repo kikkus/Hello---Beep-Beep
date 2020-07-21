@@ -1,8 +1,8 @@
 Hello - Beep Beep 1.0
 
-This is a porting to VS of an IDA plugin developed with Embarcadero.
+-------------------------------------------------------------------------------------------------------------
 
-To convert the selection in byte,word,double and where it is supported in quad:
+For converingt the selection in byte,word,double and where it is supported in quad:
 
 Shift-1 Make Byte 
 
@@ -22,5 +22,6 @@ Ctrl-Shift-d  Delete the current function without using the menu https://youtu.b
 
 Ctrl-Shift-x  Remove all the references to the current address https://youtu.be/M2L5-yOvXjk
 
+-------------------------------------------------------------------------------------------------------------
 
 Installation: copy the dll in your ida/plugins folder.
