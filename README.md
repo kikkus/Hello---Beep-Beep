@@ -2,7 +2,7 @@ Hello - Beep Beep 1.0
 
 -------------------------------------------------------------------------------------------------------------
 
-For converingt the selection in byte,word,double and where it is supported in quad:
+Set the selection in byte,word,double and where it is supported in quad:
 
 Shift-1 Make Byte 
 
